@@ -10,9 +10,9 @@ This repository is dedicated to tracking issues, feature requests, and bug repor
 
 If you encounter a bug or have a feature request, please follow these steps to report it:
 
-1. **Check existing issues** - Please search the [existing issues](https://github.com/jaredburnett/aqua-track-issues/issues) to see if your issue has already been reported.
+1. **Check existing issues** - Please search the [existing issues](https://github.com/jburnt17/aqua-track-issues/issues) to see if your issue has already been reported.
 
-2. **Create a new issue** - If your issue hasn't been reported yet, [create a new issue](https://github.com/jaredburnett/aqua-track-issues/issues/new/choose) using the appropriate template:
+2. **Create a new issue** - If your issue hasn't been reported yet, [create a new issue](https://github.com/jburnt17/aqua-track-issues/issues/new/choose) using the appropriate template:
 
    - Bug Report
    - Feature Request
