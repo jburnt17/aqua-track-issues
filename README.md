@@ -37,7 +37,7 @@ Issues are categorized with the following labels:
 
 ## Development Status
 
-The development team regularly reviews new issues and will respond as soon as possible. Issue statuses are tracked via labels:
+New issues will be reviewed and responded to as soon as possible. Issue statuses are tracked via labels:
 
 - `triage`: Issue has been received but not yet evaluated
 - `in-progress`: Issue is being worked on
